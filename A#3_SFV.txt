@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conectados - Inclusión Laboral</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header, footer {
+            background: #0056b3;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #004494;
+            padding: 10px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Conectados - Oportunidades Inclusivas</h1>
+    </header>
+    <nav>
+        <a href="#promesa">Promesa de Valor</a>
+        <a href="#grupo">Grupo Objetivo</a>
+        <a href="#interaccion">Opciones de Interacción</a>
+        <a href="#ingresos">Modelos de Ingresos</a>
+        <a href="#escalabilidad">Escalabilidad</a>
+    </nav>
+    <div class="container">
+        <section id="promesa">
+            <h2>Promesa de Valor</h2>
+            <p>Conectados busca cerrar la brecha de empleo para personas con discapacidad en América Latina a través de una plataforma accesible.</p>
+        </section>
+        <section id="grupo">
+            <h2>Grupo Objetivo</h2>
+            <p>Facilitamos empleo digno para personas con discapacidad y apoyamos a empresas en su proceso de inclusión.</p>
+        </section>
+        <section id="interaccion">
+            <h2>Opciones de Interacción</h2>
+            <ul>
+                <li>Portal de empleo accesible</li>
+                <li>Capacitación y certificaciones</li>
+                <li>Consultoría para empresas</li>
+                <li>Programas de mentoría</li>
+            </ul>
+        </section>
+        <section id="ingresos">
+            <h2>Modelos de Ingresos</h2>
+            <ul>
+                <li>Suscripción de empresas</li>
+                <li>Comisiones por contratación</li>
+                <li>Patrocinios y alianzas</li>
+                <li>Cursos y certificaciones pagadas</li>
+            </ul>
+        </section>
+        <section id="escalabilidad">
+            <h2>Escalabilidad</h2>
+            <p>Expansión regional, automatización de procesos y desarrollo de comunidades inclusivas.</p>
+        </section>
+    </div>
+    <footer>
+        <p>Conectados - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
